@@ -1,4 +1,4 @@
-# Snap-Installed-Docker-Compose-V2-Plugin
+# Install Compose V2 Plugin to Snap Installed Docker
 Notes about installing compose v2 plugin to docker when it is installed from Snap. 
 
 > This instructions are made by merging info from: [docs.docker.com > compose-plugin](https://docs.docker.com/compose/install/compose-plugin/) with  [forum.snapcraft.io > Is it possible to run docker cli plugins from the docker snap](https://forum.snapcraft.io/t/is-it-possible-to-run-docker-cli-plugins-from-the-docker-snap/16574).
